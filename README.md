@@ -134,6 +134,10 @@ This project is open source and available under the MIT License.
 - **React Team**: For the excellent framework
 - **Vite**: For the fast development experience
 
+## ScreenShot of My Weather-Now App
+<img width="1905" height="867" alt="Screenshot 2025-08-28 205841" src="https://github.com/user-attachments/assets/5762c423-9abf-454a-bae4-2df30b6f8485" />
+
+
 ---
 
 Built with ❤️ for outdoor enthusiasts who need reliable weather information at their fingertips.
